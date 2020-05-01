@@ -1,7 +1,7 @@
 def greet_characters(array)
   
   array.each do |dwarf|
-    p"Hello #{dwarf}  !"
+    puts "Hello #{dwarf}  !"
   end 
 end
 
